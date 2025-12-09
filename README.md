@@ -1,33 +1,32 @@
 <div align="center">
 
-# 💀 Welcome to the Shadow Realm 💀
+# 🤖 AI-Generated Profile 🤖
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F70000&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Oracle+Apprentice+%F0%9F%94%A5;Finance+%26+Trading+Obsessed+%F0%9F%92%B9;Building+with+AI+%26+Python+%F0%9F%A4%96" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Code+Enthusiast+%F0%9F%92%BB;Database+Explorer+%F0%9F%97%84%EF%B8%8F;Oracle+Apprentice+%E2%9A%A1" alt="Typing SVG" />
 
-![Profile Views](https://komarev.com/ghpvc/?username=dysticl&color=red&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=dysticl&color=00d9ff&style=for-the-badge)
 
 </div>
 
 ---
 
-## 🎯 Current Mission
+## 🎯 About This Profile
 
 ```python
-class Dysticl:
+class Developer:
     def __init__(self):
-        self.name = "Daniel"
-        self.role = "Software Dev Apprentice @ Oracle"
-        self.location = "Baden-Württemberg 🇩🇪"
-        self.goals = ["Master Trading", "Build OP Apps", "Get Rich or Die Tryin'"]
-        self.current_project = "Solo Leveling iOS App 🎮"
+        self.username = "dysticl"
+        self.focus = ["Databases", "Backend", "Automation"]
+        self.learning = ["SQL Optimization", "System Design", "Clean Code"]
+        self.tools = ["Oracle DB", "Docker", "Python", "Java"]
     
-    def get_vibe(self):
-        return "Coding by day 💻 | Gym at night 💪 | Trading 24/7 📈"
+    def current_status(self):
+        return "Building things and learning every day 🚀"
 ```
 
 ---
 
-## ⚡ Tech Arsenal
+## ⚡ Tech Stack
 
 <div align="center">
 
@@ -47,33 +46,34 @@ class Dysticl:
 
 ---
 
-## 📊 GitHub Stats (Grinding Every Day)
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=dysticl&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F70000&icon_color=F70000&text_color=FFFFFF" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dysticl&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F70000&text_color=FFFFFF" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=dysticl&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dysticl&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" width="48%" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=dysticl&theme=radical&hide_border=true&background=0D1117&ring=F70000&fire=F70000&currStreakLabel=F70000" width="60%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dysticl&theme=radical&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" width="60%" />
 
 </div>
 
 ---
 
-## 🎮 What I'm Building
+## 🛠️ Current Focus
 
-- 📱 **Solo-Leveling iOS App** - Swift + Python/FastAPI Backend (Gamified Productivity)
-- 🤖 **AI Trading Bots** - Automating the grind for XAU/USD & Crypto
-- 📈 **Market Analysis Tools** - Deep dive into finance & trading patterns
+- 🗄️ **Database Systems** - Deep dive into SQL, Oracle, and relational design
+- 🐍 **Backend Development** - Building APIs and automation tools
+- 🐳 **DevOps** - Containerization and deployment workflows
+- 📚 **Continuous Learning** - Exploring new technologies and best practices
 
 ---
 
-## 🌐 Find Me
+## 🌐 Connect
 
 <div align="center">
 
 [![Blog](https://img.shields.io/badge/Blog-davysgray.com-black?style=for-the-badge&logo=vercel)](https://davysgray.com)
-[![GitHub](https://img.shields.io/badge/GitHub-dysticl-red?style=for-the-badge&logo=github)](https://github.com/dysticl)
+[![GitHub](https://img.shields.io/badge/GitHub-dysticl-00D9FF?style=for-the-badge&logo=github)](https://github.com/dysticl)
 
 </div>
 
@@ -91,7 +91,7 @@ class Dysticl:
 
 <div align="center">
 
-**"The grind never stops. Level up every single day. 💯"**
+**"Progress over perfection. Keep building. 💯"**
 
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
