@@ -34,8 +34,7 @@
 ✅ Code reviews himself  
 ✅ Deploys on Fridays  
 
-<img src="https://media1.tenor.com/m/x8v1oNUOmg4AAAAd/rickroll-roll.gif" width="250">
-
+<img src="https://media.tenor.com/HWF3z59U5OUAAAAM/gigachad-chad.gif" width="300">
 | 🤡 Average Developer | 💪 GIGACHAD CODER |
 |---------------------|-------------------|
 | Reads documentation | **IS** the documentation |
