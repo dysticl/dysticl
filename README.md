@@ -161,7 +161,6 @@ $ cat motivation.txt
 
 *✨ Remember: This entire profile is AI-generated satire ✨*
 
-<img width="400" src="https://media.giphy.com/media/LcfBYS8BKhCvK/giphy.gif">
 
 ### 👋 *~Ja ne~* 👋
 
