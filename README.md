@@ -11,8 +11,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=dysticl&color=ff69b4&style=for-the-badge)
 ![AI Badge](https://img.shields.io/badge/%F0%9F%A4%96-AI--Generated-ff69b4?style=for-the-badge)
 
-<img src="https://media.tenor.com/qYDgWEo3WbcAAAAM/gigachad-chad.gif" width="400">
-</div>
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjM0bDM4azdjd3FkejdlZm80bHBrd2piNWRxdGN3MXV0Ym5xZHhyMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3hBTH8bV4n5RKZXQe6/giphy.gif" width="400"></div>
 
 ---
 
