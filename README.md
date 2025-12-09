@@ -16,11 +16,11 @@
 
 ---
 
-## 💪 GIGACHAD DEVELOPER ENERGY 💪
+## 💪 GIGACHAD DEVELOPER RIZZ 💪
 
 <div align="center">
 
-> **⚠️ ALPHA MALE CODING ZONE - MAXIMUM SIGMA GRINDSET ⚠️**
+> **⚠️ ALPHA MALE CODING ZONE - MAXIMUM SIGMA RIZZ ⚠️**
 
 ### 🗿 The Gigachad Programmer Checklist
 
