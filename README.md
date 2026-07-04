@@ -29,3 +29,11 @@ gnuplot(sin())
     -10               -5                0                 5                10
 ```
 
+
+---
+
+<div align="center">
+
+$$\displaystyle\Huge\sin(x)$$
+
+</div>
